@@ -26,8 +26,8 @@ public class Main {
         }
 
         CommandClientBuilder commandClient = new CommandClientBuilder();
-        commandClient.setOwnerId("419761037861060619");
-        commandClient.forceGuildOnly("259938466769534976");
+        commandClient.setOwnerId("코드");
+        commandClient.forceGuildOnly("코드");
 
         try {
             registerCommands(commandClient);
