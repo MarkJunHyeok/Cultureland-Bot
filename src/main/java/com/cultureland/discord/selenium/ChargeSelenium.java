@@ -28,8 +28,8 @@ public class ChargeSelenium {
     private final String LOGIN_URL = "https://m.cultureland.co.kr/mmb/loginMain.do";
     private final String CHARGE_URL = "https://m.cultureland.co.kr/csh/cshGiftCard.do";
 
-    private final String CHARGE_ID = "wnsgur65";
-    private final String CHARGE_PW = "sksqkrwns65@";
+    private final String CHARGE_ID = "xx";
+    private final String CHARGE_PW = "xx@";
 
 
      private ChargeSelenium() {
